@@ -18,7 +18,7 @@
 ---
 
 ```bash
-ramanzada@kurdistan:~$ whoami --verbose
+Who am I?
 ```
 
 ```diff
