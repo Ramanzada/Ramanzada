@@ -31,6 +31,14 @@ Who am I?
 - [STATUS]   Currently breaking and rebuilding things in React
 ! [CONTACT]  zadaray99@gmail.com
 ```
+```js
+const raman = {
+  code: ["JavaScript", "TypeScript", "Python"],
+  tools: ["React", "Node.js", "MongoDB", "Docker", "Linux"],
+  learning: "advanced React patterns + cybersecurity",
+  motto: "ژیان، ئازادی، زانیاری  //  jiyan, azadî, zanyarî",
+  translation: "life, freedom, knowledge"
+};
 ```
 
 ---
