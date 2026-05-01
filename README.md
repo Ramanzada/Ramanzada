@@ -49,7 +49,7 @@ ramanzada@github:~$ whoami --verbose
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ramanzada&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffe1&icon_color=ff003c&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=ramanzada&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
 
 </td>
 <td width="50%">
@@ -60,7 +60,7 @@ ramanzada@github:~$ whoami --verbose
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanzada&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=ffffff&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanzada&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
